@@ -1,0 +1,4 @@
+Chapter 1
+This is chapter 1 of the book.
+
+This chapter gives introduction to characters and the mystery.
